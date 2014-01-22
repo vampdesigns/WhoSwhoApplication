@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="grey">#CCCCCC</color>
+    <color name="white">#FFF</color>
+    <color name="purple">#5555CC</color>
+    <color name="drawer_menu_background">#FFF</color>
+    <color name="dark_blue">#286877</color>
+    <color name="text_grey">#5a5a5d</color>
+</resources>

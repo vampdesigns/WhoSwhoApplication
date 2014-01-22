@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Who s Who</string>
+    <string name="action_settings">Settings</string>
+    
+	<!-- Main Activity -->
+    <string-array name="menu_array">
+        <item>Home</item>
+        <item>Employees</item>
+    </string-array>
+    <string name="drawer_header">Menu</string>    
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    
+    <!-- Common strings -->
+    <string name="ok">OK</string>
+    <string name="error">Error</string>
+    <string name="no_internet_connection_">No Internet Connection!</string>
+    <string name="please_wait">Please wait</string>
+    <string name="loading_">Loading...</string>
+    <string name="settings">Settings</string>    
+    <string name="server_error">Can\'t connect to the server.</string>
+    
+    <!-- Employee Fragment strings -->
+    <string name="no_data">There are no data in the moment.\nTry later.</string>
+    
+    <!-- Home Fragment -->
+    <string name="reload">Reload</string>
+    <string name="this_is_demo">This is demo application.\nI\'ve used the http://www.theappbusiness.com/our-team/ site for data.\nUse Sliding drawer menu for navigation in the app.\nThank you!</string>
+    
+</resources>
